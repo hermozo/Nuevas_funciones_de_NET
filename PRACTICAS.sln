@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Json_NET_App", "Json_NET_Ap
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Literales_Binarios", "Literales_Binarios\Literales_Binarios.csproj", "{DB7F6B9F-2256-4E87-9424-F67B7AF8AB83}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "net7", "net7\net7.csproj", "{802FAAB9-6C8A-4DF1-9165-ED7256734490}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "net7", "net7\net7.csproj", "{802FAAB9-6C8A-4DF1-9165-ED7256734490}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UploadApi", "UploadApi\UploadApi.csproj", "{27D24A3F-8B86-4D92-84E7-6BBF06213E30}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{802FAAB9-6C8A-4DF1-9165-ED7256734490}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{802FAAB9-6C8A-4DF1-9165-ED7256734490}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{802FAAB9-6C8A-4DF1-9165-ED7256734490}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27D24A3F-8B86-4D92-84E7-6BBF06213E30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27D24A3F-8B86-4D92-84E7-6BBF06213E30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27D24A3F-8B86-4D92-84E7-6BBF06213E30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27D24A3F-8B86-4D92-84E7-6BBF06213E30}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
